@@ -23,4 +23,4 @@ This C++ program helps a teacher analyze the scores of 10 students using arrays 
 
 # Video
 
-Video Link: Paste your video link here
+Video Link: https://drive.google.com/file/d/1p-YGfgAooOsBjeZhcBRxK9zQcZkNTH2L/view?usp=drivesdk
